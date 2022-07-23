@@ -1,15 +1,15 @@
 ### Hey there 
 <a href="https://www.instagram.com//">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/huseyinafsin/huseyinafsin/main/icons/instagram.png" />
+  <img align="left" alt="Hüseyin Afşin's Instagram" width="22px" src="https://raw.githubusercontent.com/huseyinafsin/huseyinafsin/main/assets/instagram.png" />
 </a>
 <a href="https://discord.gg/">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/huseyinafsin/huseyinafsin/main/assets/discord.svg" />
+  <img align="left" alt="Hüseyin Afşin's Discord" width="22px" src="https://raw.githubusercontent.com/huseyinafsin/huseyinafsin/main/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/huseyinafsin/huseyinafsin/main/assets/twitter.svg" />
+  <img align="left" alt="Hüseyin Afşin | Twitter" width="22px" src="https://raw.githubusercontent.com/huseyinafsin/huseyinafsin/main/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/huseyinafsin/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/huseyinafsin/huseyinafsin/main/assets/linkedin.svg" />
+  <img align="left" alt="Hüseyin Afşin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/huseyinafsin/huseyinafsin/main/assets/linkedin.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=huseyinafsin.huseyinafsin)
