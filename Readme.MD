@@ -5,7 +5,7 @@
 <a href="https://discord.gg/">
   <img align="left" alt="Hüseyin Afşin's Discord" width="22px" src="https://raw.githubusercontent.com/huseyinafsin/huseyinafsin/main/assets/discord.svg" />
 </a>
-<a href="[https://twitter.com/](https://twitter.com/huseyin0xff)">
+<a href="https://twitter.com/huseyin0xff">
   <img align="left" alt="Hüseyin Afşin | Twitter" width="22px" src="https://raw.githubusercontent.com/huseyinafsin/huseyinafsin/main/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/huseyinafsin/">
