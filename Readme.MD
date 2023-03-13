@@ -5,7 +5,7 @@
 <a href="https://discord.gg/">
   <img align="left" alt="Hüseyin Afşin's Discord" width="22px" src="https://raw.githubusercontent.com/huseyinafsin/huseyinafsin/main/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/">
+<a href="[https://twitter.com/](https://twitter.com/huseyin0xff)">
   <img align="left" alt="Hüseyin Afşin | Twitter" width="22px" src="https://raw.githubusercontent.com/huseyinafsin/huseyinafsin/main/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/huseyinafsin/">
@@ -16,7 +16,7 @@
 
 <br />
 
-hi, i'm [Hüseyin Afşin](https://licanetwork.com/), a passionate self-taught full stack web developer and a freelance software engineer from Turkey. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hi, i'm [Hüseyin Afşin](https://licanetwork.com/), a passionate self-taught full stack web developer and a freelance software engineer from Turkey. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
