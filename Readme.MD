@@ -1,41 +1,10 @@
-### Hey there 
-<a href="https://www.instagram.com//">
-  <img align="left" alt="Hüseyin Afşin's Instagram" width="22px" src="https://raw.githubusercontent.com/huseyinafsin/huseyinafsin/main/assets/instagram.png" />
-</a>
-<a href="https://discord.gg/">
-  <img align="left" alt="Hüseyin Afşin's Discord" width="22px" src="https://raw.githubusercontent.com/huseyinafsin/huseyinafsin/main/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/huseyin0xff">
-  <img align="left" alt="Hüseyin Afşin | Twitter" width="22px" src="https://raw.githubusercontent.com/huseyinafsin/huseyinafsin/main/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/huseyinafsin/">
-  <img align="left" alt="Hüseyin Afşin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/huseyinafsin/huseyinafsin/main/assets/linkedin.svg" />
-</a>
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=huseyinafsin.huseyinafsin)
 
-<br />
-
-Hi, i'm [Hüseyin Afşin](https://licanetwork.com/), a passionate self-taught full stack web developer and a freelance software engineer from Turkey. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-
-
-  <img align="right" alt="GIF" src="https://github.com/huseyinafsin/huseyinafsin/blob/main/blob/code.gif?raw=true" width="500" height="320" />
-  
-- 💼 any freelance work? do reach, [email](mailto:huseyinone@outlook.com) :)
-- 💬 ask me about anything, i am happy to help;
-
 **languages and tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://spring.io/images/projects/spring-boot-7f2e24fb962501672cc91ccd285ed2ba.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 📊 **this week i spent my time on:**
